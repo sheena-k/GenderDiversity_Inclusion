@@ -36,4 +36,4 @@
 * **For individuals above the age of 49, no inference can be drawn from the collected samples of data.**
 
 
-Overall, there is diversity in performance ratings across different age groups.
+* **Overall, there is diversity in performance ratings across different age groups.**
